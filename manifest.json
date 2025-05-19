@@ -1,6 +1,6 @@
 {
-    "name": "srplayer",
-    "short_name": "srplayer",
+    "name": "srplayerhost",
+    "short_name": "srplayerhost",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
